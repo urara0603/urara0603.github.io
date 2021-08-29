@@ -1,0 +1,24 @@
+h1 {
+    color: rgb(227, 240, 232);
+    background-color: rgb(68, 182, 123);
+}
+body {
+    background-color: rgb(217, 226, 221);
+   }
+li{
+    list-style:none;
+    }
+ ul{
+        display:flex;
+        }
+li{
+            list-style:none;
+            padding:10px 30px 10px 30px;
+            }
+ .header{
+                background-color: rgb(68, 212, 123);
+                height: 50px;
+                }
+.about-me{
+    color:blueviolet;
+}
