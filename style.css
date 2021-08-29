@@ -1,9 +1,10 @@
 h1 {
-    color: rgb(227, 240, 232);
-    background-color: rgb(68, 182, 123);
+    color: rgb(255, 255, 255);
+    background-color:rgb(15, 158, 15);
+    background-size: 600px;
 }
 body {
-    background-color: rgb(217, 226, 221);
+    background-color: white(217, 226, 221);
    }
 li{
     list-style:none;
@@ -13,12 +14,21 @@ li{
         }
 li{
             list-style:none;
-            padding:10px 30px 10px 30px;
+            padding:20px 50px 20px 20px;
             }
  .header{
-                background-color: rgb(68, 212, 123);
+                background-color: rgb(41, 236, 116);
                 height: 50px;
                 }
 .about-me{
-    color:blueviolet;
+    color:rgb(41, 238, 23);
+}
+.marin{
+    img
+}
+.about-me p{
+    font-size: 30px;
+}
+.last h3{
+    font-size:50px;
 }
